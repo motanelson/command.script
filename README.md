@@ -1,2 +1,1 @@
-# car.simulator
-car simulator
+decompiles text files .txtcx
